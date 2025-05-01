@@ -1,6 +1,6 @@
 FROM mysql:5.7
 MAINTAINER Baoshuo <i@baoshuo.ren>
-LABEL org.opencontainers.image.source=https://github.com/UniversalOJ/UOJ-System
+LABEL org.opencontainers.image.source=https://github.com/LittleChiu/UOJ-System
 LABEL org.opencontainers.image.description="UOJ Database"
 LABEL org.opencontainers.image.licenses=MIT
 

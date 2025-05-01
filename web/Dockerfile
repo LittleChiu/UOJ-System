@@ -1,6 +1,6 @@
 FROM ubuntu:20.04
 MAINTAINER Baoshuo <i@baoshuo.ren>
-LABEL org.opencontainers.image.source=https://github.com/UniversalOJ/UOJ-System
+LABEL org.opencontainers.image.source=https://github.com/LittleChiu/UOJ-System
 LABEL org.opencontainers.image.description="UOJ Web"
 LABEL org.opencontainers.image.licenses=MIT
 
